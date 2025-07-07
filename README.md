@@ -31,10 +31,15 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/TemidayoDavid/Blog-preview-card)
+- Live Site URL: (https://temidayodavid.github.io/Blog-preview-card/)
 
 ## My process
+
+- I studied all design files given
+- Built the html structure of the project
+- Created custom css properties to allow for ease and consistency in the developement
+- Implemented all the design specifications
 
 ### Built with
 
